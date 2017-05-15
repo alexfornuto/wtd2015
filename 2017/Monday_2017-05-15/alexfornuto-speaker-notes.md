@@ -224,3 +224,110 @@ The answer depends on whom you ask.
 
 Table discussion.
 
+
+## You Have Already Succeeded
+
+**Design critique guidelines make feedback easier**
+
+Christy Lutz
+
+###Feedback Makes You Stronger
+
+
+**Design Critique Guidelines**
+
+ - How to ask for feedback
+ - How to Give Feedback
+ - How to Deal with Feedback
+
+### What's Good about Fedback
+
+Feedback...
+
+
+Leads to better working relationships.
+
+
+Talking about what we don't know and what we do know, everyone learns.
+
+**Feedback works.** - It makes thins better everytime.
+
+### What do you need?
+
+#### Identify Stakeholders (Including You)
+
+When you ask for feedback, you own the project.
+
+#### Create a scope statement.
+
+Pull example scope statemtnt from slides.
+
+#### Write down feedback guidelines
+
+Ask for what you need.
+
+
+### How Do you Start?
+
+Just start gathering feedback
+
+**Listen and Repeat**
+
+Rephrase in your own words to make sure you both understand each other.
+
+You don't need to sell your work.
+
+**Throw a feedback party**
+
+**Play with stickers**
+
+**Schedule a design review**
+
+**Gather Feedback anywhere, and everywhere**
+
+**Talk to your team** - Don't be afraid to take up time at meetings.
+
+### How do you Provide Feedback?
+
+**You are a person** your feedback is always valuable. Embrace your humanity. Give the kind of feedback you would want to get. 
+
+Start with what's good. And end with it, to.
+
+Ask Quesitons.
+
+Pose your critique in the form of a question
+
+Your role is the defender of the goals. The goals of feedback are the goals of the project.
+
+Defend your feedback to yourself first.
+
+### How do you deal with feedback?
+
+**It's not about you**
+
+### How do you measure your results?
+
+Follow up.
+
+Does it support the goals of the project?
+
+Feedback is a discussion.
+
+### How do you report your results?
+
+Appreciate your feedback.
+
+Frame your reporting with respect to your goals.
+
+Feedback goes both ways.
+
+Your goal is not to make everyone happy.
+
+**Teach design critique guidelines to your team**
+
+"Just by asking for feedback, you have already succeeded."
+
+
+
+
+
