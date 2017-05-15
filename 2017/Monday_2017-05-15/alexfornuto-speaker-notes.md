@@ -98,4 +98,129 @@ With your own documentationin mind, how are you incorporating some of the follow
  - Modularity
  - Wayfinding
 
+## Caring Systems: Documentation As Care
+
+** Rethinking Care, Work & Technology**
+
+ - Amelia Abreu
+ - uxnightschool.com | abreu.co
+ - @ameliaabreu
+
+### Overview
+
+Understanding Care + The economic and social impact of care work.
+
+### Who I Am
+
+ - Design researcher and writer
+ - previously: human-computer interaction researcher
+ - Working in and arounf tech for 10 years
+ - primary caregiver for 5
+
+
+### Understanding Care
+
+** What is Care**
+
+Care is the work of attending to expressed or anticipated needs.
+
+Caring generally takes on three forms: *Industrial, Emotional**, and **Informational**.
+
+###Instrumental Care
+
+Includes activities such as cleaning, helping, shopping.
+
+### Emotional Support
+
+Includes listening, counseling and companionship, **Empathy**.
+
+
+### Informational
+
+Applying knowledge and best practices. Documentaiton is a form of informational caring.
+
+**Humans Require more care than any other species.**
+
+70% of the pupulation will require long-term care in adulthood.
+
+**Caregiving** is projected to be the largest occupationin the US by 2020. 81% of jobs are in the service sectors.
+
+Care has a global supply chain.
+
+Technology devalues care. We don't think that care is as important as other work.
+
+> Quote from Mark Zuckerburg.
+
+We like to make care invisible.
+
+We like to outsource care.
+
+> Quote from Wired Magazine
+
+### Who is Doing The Care Work?
+
+Cafeteria workers at SilCon Valley Campus attempted to unionize a few years ago.
+
+** Axioms for Care and Technology**
+
+1. Care cannot be automated
+2. Care is not a problem to be solved by technology.
+3. Pull from Slides
+
+Question: Recall a caring interaction or system that you have experienced recently.
+
+### Care and Documentation
+
+ - How to better understand care in the scope of documentaiton.
+
+#### Case study: Developer tools
+
+**Anti-Patterns**
+
+1. "Roll your own" solution
+2. No dedicated resources for documentation = little to no docs
+3. Culture that discourages "stupid Questions"
+4. "Who is this for?"
+
+
+** Roll Your Own""
+
+What about Users Who are different than you and your team?
+
+Start with keyboard shortcuts, work from there.
+
+>Quote
+
+**Documentation is everyone's job / no ones job**
+
+Reliance on relationships
+
+
+Lack of scaffolding for documentation. 
+
+
+**Fear of Stupid Questions**
+
+The logic of:
+
+> "If I ask for help, or if I make  acase to offer help, I admit vulnerability - AVOID!"
+
+**Who is this for?**
+
+
+The answer depends on whom you ask.
+
+### Next Steps
+
+**Everyone's Work Is Equally Important**
+
+> Quote from Carol Gillian
+
+#### How do we do better?
+
+**User Research + Docs**
+
+### Storyboard Caring Interactions
+
+Table discussion.
 
